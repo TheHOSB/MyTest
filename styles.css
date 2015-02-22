@@ -1,4 +1,13 @@
-.popope h3 {
+html {
+  text-align:center;
+}
+
+.popope h1 {
 font-family:Verdana;
 font-size:35px;
+}
+
+.popope h2 {
+font-family:Verdana;
+font-size:25px;
 }
