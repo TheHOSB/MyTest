@@ -2,6 +2,9 @@ html {
   text-align:center;
 }
 
+img {
+  display:inline-block;
+}
 .popope h1 {
 font-family:Verdana;
 font-size:65px;
